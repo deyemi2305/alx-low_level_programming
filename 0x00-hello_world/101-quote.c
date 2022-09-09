@@ -1,15 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - Prints "and that piece of art is useful" - Dora Korper, 2015-10-19",
+ * main - Prints the string in the put function
  *
- * Return: Always 1.
+ * Return: 1 (Success)
  */
 int main(void)
 {
-	write(2,
-		"and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",
-		59);
+	printf("with proper grammer, but the outcome is a piece of art, \n");
 	return (1);
 }
 
