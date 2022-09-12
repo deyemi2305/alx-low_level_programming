@@ -21,7 +21,7 @@ int main(void)
 			if (m == 56 && n == 57)
 				continue;
 			putchar(44);
-			putchra(32);
+			putchar(32);
 		}
 	}
 	putchar('\n');
