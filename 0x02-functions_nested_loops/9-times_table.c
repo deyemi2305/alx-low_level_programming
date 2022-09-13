@@ -5,7 +5,7 @@
  * Description: It prints 9 times tables staring with 0
  * Return: Nothing.
  */
-void times_tables(void)
+void times_tables(void);
 {
 	int i, j, n;
 
