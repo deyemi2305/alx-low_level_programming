@@ -2,7 +2,7 @@
 
 /**
  * times_table - check description
- * Description: It prints 9 times table staring with 0
+ * Description: It prints 9 times tables staring with 0
  * Return: Nothing.
  */
 void times_table(void)
