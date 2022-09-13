@@ -1,21 +1,22 @@
 #include <stdio.h>
 
 /**
- * main - check for multiple of 3 and 5
+ * main - main function
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int x = 1024, y, sum = 0;
+	int a;
+	int b = 0;
 
-	for (y = 0; y < x; y++)
+	for (a = 0; a < 1024; a++)
 	{
-		if ((y % 3 == 0) || (y % 5 == 0))
+		if (a % 3 == 0 || a % 5 == 0)
 		{
-			sum = sum + y;
+			b += a;
 		}
 	}
-	printf("%d\n", sum);
+	printf("%d\n", b);
 	return (0);
 }
