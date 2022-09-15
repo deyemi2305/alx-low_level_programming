@@ -28,8 +28,15 @@ int main(void)
 			}
 			else
 			{
-				putchar('\n');
+				printf("Buzz");
 			}
 		}
+		else
+		{
+			printf("%d ", num);
+		}
 	}
+	printf("\n");
+
+	return (0);
 }
