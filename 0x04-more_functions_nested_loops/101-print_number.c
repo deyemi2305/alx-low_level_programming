@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 
 /**
  * print_number - Prints numbers
@@ -10,7 +10,7 @@ void print_number(int n)
 {
 	unsigned int x;
 
-	x = n
+	x = n;
 	if (n < 0)
 	{
 		putchar(45);
