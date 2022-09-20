@@ -1,1 +1,1 @@
-This Repository contains various project on C Programming and more
+This Repository contains various projects on C Programming and more
