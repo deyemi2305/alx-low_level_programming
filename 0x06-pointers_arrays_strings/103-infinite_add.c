@@ -16,6 +16,9 @@
  * Return: returns pointer to result
  */
 
+char *infinite_add(char *n1, char *n2, char *r, int size_r)
+{
+}
 /**
  * add_strings - Adds the numbers stored in two strings.
  * @n1: the string containing the first number to be added.
