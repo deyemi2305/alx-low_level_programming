@@ -24,7 +24,6 @@ int longitud(char *s)
  * @i: original number
  * @l: counter to compare multiplication
  * @s: string
- *
  * Return: square root
  */
 
@@ -41,7 +40,6 @@ int comparar(int i, int l, char *s)
 /**
  * is_palindrome - return 1 if is number prime
  * @s: number to evaluate
- *
  * Return: 1 or 0
  */
 
